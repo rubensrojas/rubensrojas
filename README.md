@@ -1,4 +1,4 @@
-### Howdy! I'm Rubens an Front-end developer with a love for building interactive and animated web pages!
+### Howdy! I'm Rubens, a Front-end developer passionate about building interactive and animated web pages that bring joy and help people's life get easier!
 
 - 🐷 I’m currently working on [Dollar Donation Club](https://dollardonationclub.com/)
 - 🧑🏻‍💻 I work mostly with Vue, React, TailwindCss and Node.
