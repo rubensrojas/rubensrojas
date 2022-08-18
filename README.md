@@ -1,7 +1,7 @@
 ### Howdy! I'm Rubens, a Front-end developer passionate about building interactive and animated web pages that bring joy and help people's life get easier!
 
 - 🐷 I’m currently working on [Dollar Donation Club](https://dollardonationclub.com/)
-- 🧑🏻‍💻 I work mostly with Vue, React, TailwindCss and Node.
+- 🧑🏻‍💻 I work with Vue, React, TailwindCss and Node.
 - 📫 How to reach me: rubensrojascompany@gmail.com
 - ⚡ Fun fact: I was born close the Amazon Rainforest, deep in the heart of BraziL, but went to college in Rio and I fell in love with this Paradise City!
 
