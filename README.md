@@ -1,4 +1,4 @@
-### Howdy! I'm Rubens, a Full-stack engineer passionate about building interactive and animated platforms that bring real value to the real world!
+### Howdy! I'm Rubens, a 4+ yrs Full-stack engineer passionate about building interactive and animated platforms that bring real value to the real world!
 
 - 🧑‍💻 I’m currently open to work and looking for Full-stack FE/heavy or Front-end opportunities.
 - 🧑🏻‍💻 I work with Javascript, Typescript, Vue, React, NextJs, Nuxt, TailwindCss, NodeJs, Laravel, Vercel and AWS.
