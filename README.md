@@ -1,4 +1,4 @@
-### Howdy! I'm Rubens, a Software Engineer with 5+ years of experience passionate about building interactive and animated platforms that bring **real** value to the **real world**!
+### Howdy! I'm Rubens, a Software Engineer with 6+ years of experience passionate about building interactive and animated platforms that bring **real** value to the **real world**!
 
 - 🧑‍💻 I’m currently at SeriesAI as a Full Stack Software Engineer.
 - 🧑🏻‍💻 I work with Javascript, Typescript, Vue, React, NextJs, Nuxt, TailwindCss, NodeJs, Laravel, Vercel and AWS.
