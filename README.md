@@ -1,6 +1,6 @@
-### Howdy! I'm Rubens, a Full-Stack Software Engineer with 6+ years of experience, passionate about building interactive and animated platforms that bring **real** value to the **real world**!
+### Howdy! I'm Rubens, a Senior Full-Stack Software Engineer with 6+ years of experience, passionate about building interactive and animated platforms that bring **real** value to the **real world**!
 
-- 🧑‍💻 I’m currently at SeriesAI as a Full Stack Software Engineer.
+- 🧑‍💻 I’m currently at LettrLabs as a Senior Frontend Software Engineer.
 - 🧑🏻‍💻 I work with JavaScript, Typescript, Vue, React, NextJS, Nuxt, TailwindCSS, NodeJS, Laravel, Vercel, and AWS.
 - 📫 How to reach me: rubensrojascompany@gmail.com
 - ⚡ Fun fact: I was born close to the Amazon Rainforest, deep in the heart of Brazil! At 17 years old, I went to Rio to do a Mathematics Bachelor's, where I completely fell in love with coding and then moved to Computer Science!
