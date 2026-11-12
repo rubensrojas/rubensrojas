@@ -17,18 +17,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/section-02-dark.svg">
-  <img src="./assets/section-02-light.svg" width="100%" alt="02 — Now">
-</picture>
-
-- 🧑‍💻 I’m currently at **LettrLabs** as a Senior Frontend Software Engineer.
-- 🧑🏻‍💻 I work with JavaScript, TypeScript, Vue, React, Next.js, Nuxt, Tailwind CSS, Node.js, Laravel, Vercel, and AWS.
-- 🌐 Portfolio: [rubensrojas.com](https://rubensrojas.com) · em português: [rubensrojas.com/pt](https://rubensrojas.com/pt/)
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-03-dark.svg">
-  <img src="./assets/section-03-light.svg" width="100%" alt="03 — Toolkit">
+  <img src="./assets/section-02-light.svg" width="100%" alt="02 — Toolkit">
 </picture>
 
 <br>
@@ -38,8 +27,8 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-04-dark.svg">
-  <img src="./assets/section-04-light.svg" width="100%" alt="04 — Contact">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-03-dark.svg">
+  <img src="./assets/section-03-light.svg" width="100%" alt="03 — Contact">
 </picture>
 
 <br>

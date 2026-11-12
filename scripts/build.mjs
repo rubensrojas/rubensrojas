@@ -216,9 +216,8 @@ ${flow.g}
 // ---------- section labels (dark + light variants) ----------
 const sections = [
   ['01', 'About'],
-  ['02', 'Now'],
-  ['03', 'Toolkit'],
-  ['04', 'Contact'],
+  ['02', 'Toolkit'],
+  ['03', 'Contact'],
 ];
 for (const [n, name] of sections) {
   for (const theme of ['dark', 'light']) {
