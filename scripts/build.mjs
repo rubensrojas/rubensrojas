@@ -229,7 +229,7 @@ for (const [n, name] of sections) {
 <line x1="34" y1="26.5" x2="66" y2="26.5" stroke="${C.text3}"/>
 <text class="s" x="80" y="34" font-size="26" font-weight="600" letter-spacing="-.04em" fill="${fg}">${name}<tspan fill="${C.accent}">.</tspan></text>
 <line x1="${80 + name.length * 15 + 40}" y1="26.5" x2="${W}" y2="26.5" stroke="${rule}"/>`;
-    write(`section-${n}-${theme}.svg`, svg({ w: W, h: 48, body, title: `${n} — ${name}` }));
+    write(`section-${name.toLowerCase()}-${theme}.svg`, svg({ w: W, h: 48, body, title: `${n} — ${name}` }));
   }
 }
 

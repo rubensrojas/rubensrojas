@@ -5,8 +5,8 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-01-dark.svg">
-  <img src="./assets/section-01-light.svg" width="100%" alt="01 — About">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-about-dark.svg">
+  <img src="./assets/section-about-light.svg" width="100%" alt="01 — About">
 </picture>
 
 ### Howdy! I'm Rubens, a Senior Full-Stack Software Engineer with 6+ years of experience, passionate about building interactive and animated platforms that bring **real** value to the **real world**!
@@ -16,8 +16,8 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-02-dark.svg">
-  <img src="./assets/section-02-light.svg" width="100%" alt="02 — Toolkit">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-toolkit-dark.svg">
+  <img src="./assets/section-toolkit-light.svg" width="100%" alt="02 — Toolkit">
 </picture>
 
 <br>
@@ -27,8 +27,8 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-03-dark.svg">
-  <img src="./assets/section-03-light.svg" width="100%" alt="03 — Contact">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-contact-dark.svg">
+  <img src="./assets/section-contact-light.svg" width="100%" alt="03 — Contact">
 </picture>
 
 <br>
