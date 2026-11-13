@@ -185,14 +185,13 @@ ${body}
 <g transform="translate(56 44)">
   <rect x=".5" y=".5" width="39" height="39" rx="10" fill="#1C1C1C" stroke="#2C2C2C"/>
   <text class="s" x="11" y="27" font-size="19" font-weight="700" letter-spacing="-.04em" fill="${C.text}">R<tspan fill="${C.accent}">.</tspan></text>
-  <text class="s" x="56" y="18" font-size="16" font-weight="600" letter-spacing="-.02em" fill="${C.text}">Rubens Rojas</text>
-  <text class="m" x="56" y="38" font-size="13" letter-spacing=".04em" fill="${C.text3}">Senior Full-Stack Engineer</text>
+  <text class="s" x="56" y="26" font-size="17" font-weight="600" letter-spacing="-.02em" fill="${C.text}">Rubens Rojas</text>
 </g>
 <circle cx="${W - 292}" cy="63" r="3.5" fill="${C.accent}"/>
 <text class="m" x="${W - 56}" y="68" font-size="15" letter-spacing=".06em" fill="${C.text2}" text-anchor="end">Rio de Janeiro · UTC−3</text>
 <line x1="56" y1="112" x2="${W - 56}" y2="112" stroke="${C.line}"/>
 
-<text class="m" x="56" y="176" font-size="16" letter-spacing=".08em" fill="${C.text3}">Product-minded full-stack engineer</text>
+<text class="m" x="56" y="178" font-size="19" letter-spacing=".08em" fill="${C.text2}"><tspan fill="${C.accent}">Senior</tspan> full-stack engineer</text>
 <text class="s" x="50" y="296" font-size="136" font-weight="600" letter-spacing="-.075em" fill="${C.text}">Rubens</text>
 <text class="s" x="50" y="410" font-size="136" font-weight="600" letter-spacing="-.075em" fill="${C.text}">Rojas<tspan fill="${C.accent}">.</tspan></text>
 <text class="s" x="56" y="470" font-size="25" letter-spacing="-.02em" fill="${C.text}">I take products from idea to production.</text>
@@ -210,7 +209,7 @@ ${flow.g}
 <text class="m" x="788" y="566" font-size="14" letter-spacing=".05em" fill="#FFFFFFCC">Idea → Execution → Production</text>
 <text class="s" x="788" y="598" font-size="24" font-weight="500" letter-spacing="-.03em" fill="#FFF">One engineer, the whole stack.</text>
 `;
-  write('header.svg', svg({ w: W, h: H, body, css: flow.css, title: 'Rubens Rojas — product-minded full-stack engineer. I take products from idea to production.' }));
+  write('header.svg', svg({ w: W, h: H, body, css: flow.css, title: 'Rubens Rojas — Senior Full-Stack Engineer. I take products from idea to production.' }));
 }
 
 // ---------- section labels (dark + light variants) ----------

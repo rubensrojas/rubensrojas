@@ -1,5 +1,5 @@
 <a href="https://rubensrojas.com">
-  <img src="./assets/header.svg" width="100%" alt="Rubens Rojas — product-minded full-stack engineer. I take products from idea to production: design, front-end, back-end, infra and the deploy. 6+ years shipping, 5 US startups, end-to-end ownership.">
+  <img src="./assets/header.svg" width="100%" alt="Rubens Rojas — Senior Full-Stack Engineer. I take products from idea to production: design, front-end, back-end, infra and the deploy. 6+ years shipping, 5 US startups, end-to-end ownership.">
 </a>
 
 <br><br>
